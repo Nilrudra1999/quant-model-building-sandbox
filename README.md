@@ -4,8 +4,9 @@ This repository holds both training data and Jupyter Notebooks for a collection 
 
 ### Models
 
-All models are saved as <b>joblib</b> (Python-Specific Serialization)<br>
-However, raw Notebook files are provided, allowing others to duplicate the model specific training process or for saving the model in their desired format.
+- All models are saved as <b>joblib</b> (Python-Specific Serialization).
+- The raw Notebook files are provided as well, to allow individuals to re-train models as desired.
+- Alongside those a spec_sheet.md is also provided which explains how the model works and why.
 
 ---
 
