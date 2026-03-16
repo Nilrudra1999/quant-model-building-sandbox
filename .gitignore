@@ -1,3 +1,4 @@
 # environment and template files
 /venv
 model_card_template.pdf
+/data
