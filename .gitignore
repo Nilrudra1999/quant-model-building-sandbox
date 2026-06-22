@@ -1,4 +1,4 @@
 # environment and template files
-/model_building_venv
+/.model_building_venv
 /data
 model_card_template.pdf
